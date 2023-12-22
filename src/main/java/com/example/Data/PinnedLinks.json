@@ -1,0 +1,7 @@
+{
+  "linksByDrive" : {
+    "D:" : [ "D:\\Adobe Illustrator", "D:\\Adobe" ],
+    "C:" : [ "C:\\Users\\Admin\\Downloads", "C:\\ProgramData" ]
+  },
+  "drives" : [ "D:", "C:" ]
+}
